@@ -16,18 +16,3 @@ accordians.forEach(accordian => {
         
     })
 })
-
-// Create a preloader div
-const preloader = document.createElement('div');
-preloader.classList.add('preloader');
-
-// Add the preloader to the body
-document.body.appendChild(preloader);
-
-// Add a loader image to the preloader
-const loaderImage = document.createElement('img');
-loaderImage.src = 'Netflix.gif';
-// Add a function to remove the preloader when the page is loaded
-window.addEventListener('load', function() {
-  preloader.classList.remove('preloader');
-});
