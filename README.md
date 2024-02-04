@@ -1,2 +1,4 @@
 # Netflix Clone  <br><br>
-The Netflix clone project is a web application that replicates the user interface and functionality of the popular streaming platform, Netflix. Developed using core web technologies—HTML, CSS, and JavaScript—the project focuses primarily on the structural and stylistic aspects with a higher reliance on HTML and CSS. JavaScript is integrated to enhance the user experience and provide basic interactive features.
+The Netflix clone project is a web application that replicates the user interface and functionality of the popular streaming platform, Netflix. Developed using core web technologies—HTML, CSS, and JavaScript—the project focuses primarily on the structural and stylistic aspects with a higher reliance on HTML and CSS. JavaScript is integrated to enhance the user experience and provide basic interactive features. <br>
+
+In summary, the Netflix clone project is a comprehensive showcase of my __HTML and CSS__ prowess, marked by a meticulous attention to detail and an unwavering commitment to delivering a visually compelling and user-friendly web application.

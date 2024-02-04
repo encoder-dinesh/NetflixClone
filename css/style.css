@@ -17,8 +17,8 @@ body {
   --heading-text: 3rem;
   --para-text: 1.5rem;
   --font: "poppins";
-  --main-big-text: 48px;
-  --main-sm-text: 24px;
+  --main-big-text: 40px;
+  --main-sm-text: 20px;
   --form-text-h3: 1.25rem;
   --red-btn-fs: 0.9rem;
   --big-red-btn: 1.5rem;
@@ -30,7 +30,7 @@ body {
 }
 
 .main-max-width {
-  max-width: 1800px;
+  max-width: 1100px;
 }
 
 .max-width {
@@ -244,37 +244,16 @@ body {
   font-size: 1rem;
 }
 
-/* *********** TOP UP Button *********** */
-.top-up-btn {
-  width: 60px;
-  height: 60px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--logo-color);
-  border-radius: 50%;
-  position: fixed;
-  right: 35px;
-  bottom: 30px;
-}
-
-.top-up-btn a {
-  text-decoration: none;
-}
-
-.top-up-btn svg {
-  width: 1.5rem;
-}
-
 /* ######## Main Section ######## */
 .first {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  max-width: 70vw;
+  /* max-width: 70vw; */
   margin: 100px auto;
   color: white;
+  padding: 0px 50px;
 }
 
 .first div {
@@ -298,14 +277,14 @@ body {
 
 .secImg img {
   position: relative;
-  width: 555px;
+  width: 450px;
   z-index: 10;
 }
 
 .secImg div {
   position: absolute;
   top: 55px;
-  right: 0;
+  left: 20%;
   overflow: hidden;
 }
 
@@ -326,20 +305,20 @@ body {
 
 .rajma-video img {
   position: relative;
-  width: 555px;
+  width: 450px;
   z-index: 10;
 }
 
 .rajma-video div {
   position: absolute;
-  top: 38px;
+  top: 20px;
   overflow: hidden;
   display: flex;
   justify-content: center;
 }
 
 .rajma-video div video {
-  width: 70%;
+  width: 60%;
 }
 
 /* ######### FAQ Section ############ */

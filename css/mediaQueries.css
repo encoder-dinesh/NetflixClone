@@ -1,4 +1,4 @@
-@media screen and (max-width: 1584px) {
+@media screen and (max-width: 1000px) {
   .center {
     text-align: center;
   }
@@ -56,6 +56,10 @@
         rgba(0, 0, 0, 0.164)
       ),
       url(../assets/bg.jpg);
+  }
+
+  .heading {
+    padding: 100px 40px;
   }
 
   .heading h1 {
