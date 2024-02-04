@@ -219,6 +219,7 @@ body {
 .form h3 {
   font-size: var(--form-text-h3);
   font-weight: 400;
+  color: white;
 }
 
 .form .email-box {

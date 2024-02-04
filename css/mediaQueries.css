@@ -43,7 +43,7 @@
     --heading-text: 1.5rem;
     --para-text: 0.8rem;
     --font: "poppins";
-    --main-big-text: 1.5rem;
+    --main-big-text: 2rem;
     --main-sm-text: 0.8rem;
     --form-text-h3: 0.8rem;
     /* --red-btn-fs: 0.5rem; */
@@ -164,11 +164,11 @@
   :root {
     --logo-color: rgb(229, 9, 20);
     --heading-text: 2rem;
-    --para-text: 1rem;
+    --para-text: 0.8rem;
     --font: "poppins";
     --main-big-text: 25px;
     --main-sm-text: 10px;
-    --form-text-h3: 1.25rem;
+    --form-text-h3: 0.8rem;
     --red-btn-fs: 0.9rem;
     --big-red-btn: 1.5rem;
   }
